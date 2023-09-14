@@ -55,8 +55,3 @@ código. Incluso, una vez que escribes un código dentro de una función, te lo 
 **10. ¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?**
 
 Es un paradigma de programación que se basa en la creación de objetos, que combinan datos y funciones en una sola entidad. Se enfoca en los objetos que los programadores necesitan manipular, en lugar de centrarse en la lógica necesaria para esa manipulación.
-
-
-
-
-
