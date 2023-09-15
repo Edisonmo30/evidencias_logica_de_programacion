@@ -6,6 +6,7 @@
 
 **Actividad 4: Ejercicios de control de flujo con expresiones compuestas**
 
+``` Java
 // Variables de tipo String
 String nombre = "Juan Pérez";
 String apellido = "González";
@@ -24,6 +25,7 @@ char género = 'M';
 double promedio = 4.5;
 // Variable de tipo int
 int semestre = 2;
+```
 
 Con la información anterior, implementa los siguientes ejercicios:
 
@@ -34,10 +36,11 @@ Con la información anterior, implementa los siguientes ejercicios:
 5. Mostrar toda la información del estudiante si está matriculado en el Cesde.
 6. Asignar una beca del 50% si el estudiante está matriculado en el Cesde, tiene un promedio superior a 4.0 y está activo.
 7. Determinar la cantidad de beca que recibe el estudiante según su promedio:
--0.0 - 3.4: El estudiante no recibe beca.
--3.5 - 3.9: El estudiante recibe una beca parcial del 25%.
--4.0 - 4.4: El estudiante recibe una beca parcial del 50%.
--4.5 - 5.0: El estudiante recibe una beca completa.
+
+* 0.0 - 3.4: El estudiante no recibe beca.
+* 3.5 - 3.9: El estudiante recibe una beca parcial del 25%.
+* 4.0 - 4.4: El estudiante recibe una beca parcial del 50%.
+* 4.5 - 5.0: El estudiante recibe una beca completa.
 
 **Solución ejercicios:**
 
