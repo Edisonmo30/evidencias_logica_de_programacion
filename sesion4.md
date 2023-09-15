@@ -4,7 +4,7 @@
 ## Sesión 4
 
 
-**Actividad 4: Ejercicios de control de flujo con expresiones compuestas**
+**Actividad 4: Ejercicios de control de flujo con expresiones compuestas.**
 
 ``` Java
 // Variables de tipo String
