@@ -6,7 +6,7 @@
 
 **Evaluación**
 
-
+Se realizó una evaluación en clase sobre el contenido de las sesiones vistas durante el primer momento.
 
 
 

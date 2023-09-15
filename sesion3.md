@@ -218,8 +218,8 @@ public class operadorTernario {
 
         scanner.close();
     }
-}<!-- Su documentación aquí -->
-
+}
+```
 
 
 

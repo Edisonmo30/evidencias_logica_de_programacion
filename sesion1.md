@@ -12,15 +12,15 @@ Es la disciplina que se encarga de desarrollar algoritmos y soluciones a problem
 
 **2. ¿Cuáles son los elementos básicos de la lógica de programación?**
 
-➔ Algoritmo
-➔ Variable
-➔ Tipos de datos
-➔ Estructura de control de flujo
-➔ Funciones o métodos
-➔ Depuración
-➔ Modularidad
-➔ Comentarios
-➔ Variables globales y locales
+-Algoritmo
+-Variable
+-Tipos de datos
+-Estructura de control de flujo
+-Funciones o métodos
+-Depuración
+-Modularidad
+-Comentarios
+-Variables globales y locales
 
 **3. ¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?**
 
