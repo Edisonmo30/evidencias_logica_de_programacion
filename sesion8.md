@@ -16,7 +16,7 @@ Implementar los siguientes métodos:
 
 ### 1
 
-```Java 
+```java 
 /**
  * Metodo1
  */
@@ -42,7 +42,7 @@ public class Metodo1 {
 
 ### 2
 
-```Java 
+```java 
 /**
  * Metodo2
  */
@@ -71,7 +71,7 @@ public class Metodo2 {
 
 ### 3
 
-```Java
+```java
 /**
  * Metodo3
  */
@@ -111,7 +111,7 @@ public class Metodo2 {
 
 ### 4
 
-```Java 
+```java 
 /**
  * Metodo4
  */
@@ -133,7 +133,7 @@ public class Metodo4 {
 
 ### 5
 
-```Java 
+```java 
 /**
  * Metodo5
  */

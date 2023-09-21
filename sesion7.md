@@ -8,9 +8,9 @@
 
 **1. En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList.**
 
-*Ejemplo Array*
+**Ejemplo Array**
 
-```Java
+```java
 
 //Se define una variable suma inicializada en 0, se crea un ciclo for, con la variable i que inicializa en 0,
         //es menor a la longitud de la cadena y se suma i + 1, luego se le suma a la variable suma la variable números,
@@ -57,9 +57,9 @@ public class array1 {
 }
 ```
 
-*Ejemplo Arraylist*
+**Ejemplo Arraylist**
 
-```Java
+```java
 
 /*Se importan las utilidades Arraylist y Scanner, luego se crea una clase llamada array2, se crea un Arraylist definido como lo dice 
  * la documentación y se crea la instancia scanner que se usa para tomar datos del usuario por consola. se inicializa el ciclo while en true,
@@ -128,9 +128,9 @@ public class array2 {
 
 **2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.**
 
-*Ejemplo Array*
+**Ejemplo Array**
 
-```Java
+```java
 
 public class inventados1 {
 
@@ -148,9 +148,9 @@ public class inventados1 {
 }
 ```
 
-*Ejemplo ArrayList*
+**Ejemplo ArrayList**
 
-```Java
+```java
 
 import java.util.HashMap;
 import java.util.Scanner;
