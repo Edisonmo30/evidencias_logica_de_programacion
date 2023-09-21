@@ -56,6 +56,7 @@ public class array1 {
     }
 }
 ```
+
 *Ejemplo Arraylist*
 
 ```Java
