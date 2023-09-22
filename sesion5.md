@@ -4,7 +4,7 @@
 ## Sesión 5 
 
 
-**Actividad 5: Ejercicios de bucles.**
+**Actividad 5: Ejercicios de bucles**
 
 **Ejercicios - while:**
 

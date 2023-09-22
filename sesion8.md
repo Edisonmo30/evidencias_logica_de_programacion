@@ -4,7 +4,7 @@
 ## Sesión 8 
 
 
-**Actividad 8: Ejecicios de métodos en Java.**
+**Actividad 8: Ejecicios de métodos en Java**
 
 Implementar los siguientes métodos:
 

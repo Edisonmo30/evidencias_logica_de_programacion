@@ -4,9 +4,9 @@
 ## Sesión 7 
 
 
-**Actividad 7: Ejecicios Array - ArrayList.**
+**Actividad 7: Ejecicios Array - ArrayList**
 
-**1. En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList.**
+**1. En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList**
 
 **Ejemplo Array**
 
@@ -126,7 +126,7 @@ public class array2 {
 }
 ```
 
-**2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.**
+**2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias**
 
 **Ejemplo Array**
 
