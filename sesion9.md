@@ -4,7 +4,7 @@
 ## Sesión 9 
 
 
-**Actividad 8: Ejecicios de Lógica de Programación**
+**Actividad 9: Ejecicios de Lógica de Programación**
 
 ### 1. Calculadora de resistencias eléctricas
 
