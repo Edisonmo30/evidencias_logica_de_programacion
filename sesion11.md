@@ -154,8 +154,10 @@ numeroBinario = 01010
 
 ### Solución:
 
-1. 
+
+
 ```java
+
 import java.util.ArrayList;
 
 public class algo1 {
@@ -185,8 +187,9 @@ public class algo1 {
 }
 ```
 
-2. 
+* 
 ```java
+
 import java.util.Scanner;
 
 public class binario {
