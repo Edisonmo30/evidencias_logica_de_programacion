@@ -154,7 +154,7 @@ numeroBinario = 01010
 
 ### Solución:
 
-
+# Primer punto
 
 ```java
 
@@ -187,7 +187,8 @@ public class algo1 {
 }
 ```
 
-* 
+# Segundo punto 
+
 ```java
 
 import java.util.Scanner;
