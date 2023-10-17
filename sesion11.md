@@ -154,7 +154,7 @@ numeroBinario = 01010
 
 ### Solución:
 
-# Primer punto
+#### Primer punto
 
 ```java
 
@@ -187,7 +187,7 @@ public class algo1 {
 }
 ```
 
-# Segundo punto 
+#### Segundo punto 
 
 ```java
 
