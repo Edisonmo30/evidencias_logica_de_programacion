@@ -16,7 +16,7 @@ En esta sesión, el docente coordinará una serie de ejercicios de lógica de pr
 git clone https://github.com/jfinfocesde/pi_consola
 ```
 
-En este link, esta la evidencia de la actividad correspondiente a la sesión del día de hoy. En donde cada uno de los grupos (integrante del grupo1) explicó un algoritmo de los cinco establecidos por cada grupo en el proyecto integrador.
+En este link, esta la evidencia de la actividad correspondiente a la sesión del día de hoy. En donde cada uno de los grupos (integrante del grupo 1) explicó un algoritmo de los cinco establecidos en el proyecto integrador.
 
 
 
